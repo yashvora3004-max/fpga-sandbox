@@ -1,0 +1,15 @@
+# .gitignore
+build/
+.Xil/
+*.jou
+*.log
+*.str
+sim_build/
+obj_dir/
+results.xml
+__pycache__/
+*.vcd
+*.fst
+*.bit
+*.bin
+*.dcp
